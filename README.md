@@ -1,10 +1,14 @@
-There was an error committing your changes: A file with the same name already exists. Please choose a different name and try again.
-Commit message
-Create README.md
-Extended description
-Add an optional extended description...
-Direct commit or PR
+# Titanic Dataset Analysis
 
-Commit directly to the main branch
+This project analyzes the Titanic dataset using pandas and matplotlib in Jupyter Notebook.
 
-Create a new branch for this commit and start a pull request Learn more about pull requests
+## Files
+
+- `titanic.csv`: Original dataset
+- `Titanic2.ipynb`: Jupyter notebook for data analysis
+
+## Requirements
+
+- Python 3.x
+- pandas
+- matplotlib
